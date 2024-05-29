@@ -1,15 +1,12 @@
 In Application all below points are done except poin 3 "Email Sending and Tracking" we can make it more better.  
 
-(1) User Authentication:
-Implement user registration and login functionalities using Laravel’s built-in features.
-(2) Email Campaign Management:
-Create a CRUD interface for managing email campaigns and email templates.
-(3) Email Sending and Tracking:
-Implement a feature to send emails and track their status (sent, delivered, opened).
-Store email statuses in a MySQL database.
-(4)Reporting Dashboard:
-Create a dashboard to display campaign performance metrics (number of emails sent, delivered, opened).
-Use a charting library like Chart.js or a similar tool to visualize the data.
+(1) User Authentication: DONE
+
+(2) Email Campaign Management: DONE
+
+(3) Email Sending and Tracking: DONE (can be improved)
+
+(4)Reporting Dashboard: DONE
 
 
 
